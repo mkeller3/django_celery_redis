@@ -1,6 +1,6 @@
 # Django Celery Redis Demo
 
-This project was create to showcase how to use celery with Django/DRF to have api endpoints that allow a user to kick off long running tasks and view the results of those task when they are done.
+This project was created to showcase how to use celery with Django/DRF. The project has api endpoints that allows a user to kick off long running tasks and view the results of those task when they are done.
 
 ## Install Instructions
 1. Run `docker run -d -p 6379:6379 redis`
